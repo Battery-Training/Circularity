@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Weiterleitung …</title>
+  <meta http-equiv="refresh" content="0; url=https://www.beispiel.de/ziel">
+  <script>location.replace("https://www.beispiel.de/ziel");</script>
+</head>
+<body>
+  <p>Weiter zu <a href="https://www.beispiel.de/ziel">dieser Seite</a>.</p>
+</body>
+</html>
